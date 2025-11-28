@@ -1,5 +1,7 @@
 ## Overview
 
+This is now archived, as I don't use WordPress enough anymore to justify trying to improve and maintain it. There are other more comprehensive plugins available with links to Bible sites based on the text, although maybe not with bibles.org.
+
 This WordPress plugin detects Bible references when content is saved. If a reference is found, it wraps a link around that reference to that text on Bibles.org.
 
 Current version has the bare minimum idea working. It can identify references to a single verse in the format book chapter:verse and wrap a link around it. 
